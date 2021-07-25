@@ -77,9 +77,21 @@
 
 - Commutative
 
+```
+a + b = b + a
+```
+
 - Associative
 
+```
+( a * b ) * c = a * ( b * a )
+```
+
 - Distributive Property
+
+```
+14 * 11 = 14 * ( 7 + 4 ) = ( 14 * 7 ) + ( 14 * 4 )
+```
 
 ## Fractions
 
@@ -93,13 +105,41 @@ Elements are as Follows
 
 - Proper Fractions
 
+```
+1 / 2
+```
+
 - Improper Fractions
+
+```
+4 / 3
+```
 
 - Mixed Numbers
 
+```
+    3
+ 1 ---
+    4
+
+```
+
 ## Decimal Numbers
 
+```
+0.0002
+34.9786
+```
+
+```
+1 / 2 = 0.5
+```
+
 ## Percentages
+
+```
+450 / 500 = 90 / 100 = 90%
+```
 
 ## Number Sets
 
