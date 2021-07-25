@@ -155,6 +155,32 @@ Elements are as Follows
 
 - Complex Numbers
 
+## Negative Numbers
+
+```
+-4
+10 - 15 = -5
+```
+
+## Operator Persidence
+
+**Addition**
+
+- + + => +
+- - - => -
+- + - => - + => ( Sign with the Greator Number )
+
+**Multiplication**
+
+- + + => +
+- - - => +
+- + - => - + => -
+
+ ## Exponent & Exponent Rule
+
+ ```
+10<sup>2</sup>
+ ```
 
 
 
