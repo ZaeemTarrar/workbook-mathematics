@@ -166,20 +166,20 @@ Elements are as Follows
 
 **Addition**
 
-- + + => +
-- - - => -
-- + - => - + => ( Sign with the Greator Number )
+- `+ + => +`
+- `- - => -`
+- `+ - => - + => ( Sign with the Greator Number )`
 
 **Multiplication**
 
-- + + => +
-- - - => +
-- + - => - + => -
+- `+ + => + `
+- `- - => +`
+- `+ - => - + => -`
 
  ## Exponent & Exponent Rule
 
  ```
-10<sup>2</sup>
+10^6
  ```
 
 
